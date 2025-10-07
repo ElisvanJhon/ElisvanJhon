@@ -3,4 +3,4 @@
 
  ### 📈 Activity Graph
 
- [![ElisvanJhon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ElisvanJhontheme=github_compact)](https://github.com/ElisvanJhon/github-readme-activity-graph)
+ [![ElisvanJhon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ElisvanJhontheme=react-dark)](https://github.com/ElisvanJhon/github-readme-activity-graph)
